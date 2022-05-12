@@ -1,0 +1,1 @@
+Row(max_price=10000.0, min_price=10.0, row_count=7146)
